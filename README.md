@@ -4,9 +4,13 @@ Hello! I am an engineering student and a beginner with coding in Python. For thi
 If you wish to find the exact .csv files I used for the data, you can find them by navigating to the CTD data selection on the website given above, and look for the following info below.
 
 West Coast Data
+
 site code: NRSROT
+
 cruise_id: 3019 
 
 East Coast Data
+
 site code: SYD140 
+
 cruise_id: SYD140_046  
